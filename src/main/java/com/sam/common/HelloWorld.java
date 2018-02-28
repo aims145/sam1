@@ -1,4 +1,4 @@
-package com.sam;
+package com.sam.common;
 
 public class HelloWorld {
 
